@@ -21,6 +21,8 @@ o	Key customers like Harivansh, Madhav, Madan Mohan, Shiva, and Vishakha are lis
 
 ## Dashboard
 <a href="https://github.com/MSingh136/Power-BI-Projects/blob/main/Dashboard.png"> View-Dashboard</a>
+![Dashboard](https://github.com/user-attachments/assets/0f75cb7d-bb16-433f-94a7-6bfcb2dfe093)
+
 ## Insights:
 •	Sales by State: Maharashtra and Madhya Pradesh seem to dominate the sales, indicating a regional concentration of business.
 •	Sales by Payment Mode: A large proportion of sales come from a dominant payment mode (45.6%), suggesting customer preference in transaction methods.
