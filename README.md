@@ -12,7 +12,7 @@ To analyze the performance of an e-commerce business, tracking key sales metrics
 1.	What is the profit trend over the year?
 - Profit fluctuates throughout the year, with no specific information provided on the highest or lowest profit months.
 2.	Which sub-categories contribute the most to profit?
-- Printers, bookcases, sarees, accessories, and tables contribute varying amounts, but the exact profit values for these are not listed.
+- Printers, bookcases, sarees, accessories, and tables contribute varying amounts, but the printers are top in the profit .
 3.	Which category contributes the most in terms of quantity sold?
 - Categories are split into percentages, with the largest category (62.62%) contributing the majority of the quantity sold.
 4.	How are sales distributed across different payment modes?
