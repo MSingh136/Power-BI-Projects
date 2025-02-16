@@ -2,7 +2,7 @@
 ## Objective:
 To analyze the performance of an e-commerce business, tracking key sales metrics like profit, quantity sold, amount generated, and customer behavior across different states, sub-categories, and payment modes over time.
 
-# Key Questions:
+## Key Questions:
 1.	What is the profit trend over the year?
 o	Profit fluctuates throughout the year, with no specific information provided on the highest or lowest profit months.
 2.	Which sub-categories contribute the most to profit?
@@ -16,12 +16,12 @@ o	Maharashtra and Madhya Pradesh appear to lead in sales, with other states like
 6.	Which customers generate the most revenue?
 o	Key customers like Harivansh, Madhav, Madan Mohan, Shiva, and Vishakha are listed as top contributors.
 
-# Insights:
+## Insights:
 •	Sales by State: Maharashtra and Madhya Pradesh seem to dominate the sales, indicating a regional concentration of business.
 •	Sales by Payment Mode: A large proportion of sales come from a dominant payment mode (45.6%), suggesting customer preference in transaction methods.
 •	Top Customers: A few key customers, like Harivansh and Madhav, contribute significantly to sales, which may represent loyal or high-value customers.
 •	Category Performance: The majority of products sold fall under one category (62.62%), highlighting a potential focus area for inventory and marketing strategies.
 
 
-# Conclusion:
+## Conclusion:
 The e-commerce business sees varied performance across months, with notable contributions from specific sub-categories, regions, and customers. There's a clear opportunity to focus on high-performing regions like Maharashtra and Madhya Pradesh, optimize payment methods preferred by customers, and strengthen relationships with top buyers. Additionally, paying attention to the best-selling categories can help drive further growth in profitability and sales volume. This summary simplifies the provided dashboard, focusing on its main points to help guide business decisions.
