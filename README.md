@@ -2,8 +2,8 @@
 ## Objective:
 To analyze the performance of an e-commerce business, tracking key sales metrics like profit, quantity sold, amount generated, and customer behavior across different states, sub-categories, and payment modes over time.
 ## Dataset Used:
--<a href="https://github.com/MSingh136/Power-BI-Projects/blob/main/Details.csv">Details Dataset</a>
--<a href="https://github.com/MSingh136/Power-BI-Projects/blob/main/Orders.csv"> Orders Data</a>
+<a href="https://github.com/MSingh136/Power-BI-Projects/blob/main/Details.csv">Details Dataset</a>
+<a href="https://github.com/MSingh136/Power-BI-Projects/blob/main/Orders.csv">Orders Data</a>
 
 ## Key Questions:
 1.	What is the profit trend over the year?
