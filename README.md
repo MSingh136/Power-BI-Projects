@@ -5,6 +5,9 @@ To analyze the performance of an e-commerce business, tracking key sales metrics
 <a href="https://github.com/MSingh136/Power-BI-Projects/blob/main/Details.csv">Details Data</a>
 <a href="https://github.com/MSingh136/Power-BI-Projects/blob/main/Orders.csv">Orders Data</a>
 
+## Dashboard
+![Dashboard](https://github.com/user-attachments/assets/0f75cb7d-bb16-433f-94a7-6bfcb2dfe093)
+
 ## Key Questions:
 1.	What is the profit trend over the year?
 - Profit fluctuates throughout the year, with no specific information provided on the highest or lowest profit months.
@@ -18,10 +21,6 @@ To analyze the performance of an e-commerce business, tracking key sales metrics
 -	Maharashtra and Madhya Pradesh appear to lead in sales, with other states like Uttar Pradesh and Delhi also contributing.
 6.	Which customers generate the most revenue?
 -	Key customers like Harivansh, Madhav, Madan Mohan, Shiva, and Vishakha are listed as top contributors.
-
-## Dashboard
-<a href="https://github.com/MSingh136/Power-BI-Projects/blob/main/Dashboard.png"> View-Dashboard</a>
-![Dashboard](https://github.com/user-attachments/assets/0f75cb7d-bb16-433f-94a7-6bfcb2dfe093)
 
 ## Insights:
 -	Sales by State: Maharashtra and Madhya Pradesh seem to dominate the sales, indicating a regional concentration of business.
