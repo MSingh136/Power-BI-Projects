@@ -7,7 +7,7 @@ To analyze the performance of an e-commerce business, tracking key sales metrics
 
 ## Key Questions:
 1.	What is the profit trend over the year?
-o	Profit fluctuates throughout the year, with no specific information provided on the highest or lowest profit months.
+Profit fluctuates throughout the year, with no specific information provided on the highest or lowest profit months.
 2.	Which sub-categories contribute the most to profit?
 o	Printers, bookcases, sarees, accessories, and tables contribute varying amounts, but the exact profit values for these are not listed.
 3.	Which category contributes the most in terms of quantity sold?
