@@ -20,7 +20,7 @@ o	Maharashtra and Madhya Pradesh appear to lead in sales, with other states like
 o	Key customers like Harivansh, Madhav, Madan Mohan, Shiva, and Vishakha are listed as top contributors.
 
 ## Dashboard
-<a https://github.com/MSingh136/Power-BI-Projects/blob/main/E-Commerce.pdf">View Dashboard</a>
+<a href="https://github.com/MSingh136/Power-BI-Projects/blob/main/E-Commerce.pdf"> View-Dashboard</a>
 ## Insights:
 •	Sales by State: Maharashtra and Madhya Pradesh seem to dominate the sales, indicating a regional concentration of business.
 •	Sales by Payment Mode: A large proportion of sales come from a dominant payment mode (45.6%), suggesting customer preference in transaction methods.
